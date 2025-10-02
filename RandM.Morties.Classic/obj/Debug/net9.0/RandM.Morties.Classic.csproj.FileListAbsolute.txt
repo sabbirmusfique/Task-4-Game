@@ -1,0 +1,15 @@
+C:\dotNetProjects\RandM\RandM.Morties.Classic\bin\Debug\net9.0\RandM.Morties.Classic.deps.json
+C:\dotNetProjects\RandM\RandM.Morties.Classic\bin\Debug\net9.0\RandM.Morties.Classic.dll
+C:\dotNetProjects\RandM\RandM.Morties.Classic\bin\Debug\net9.0\RandM.Morties.Classic.pdb
+C:\dotNetProjects\RandM\RandM.Morties.Classic\bin\Debug\net9.0\RandM.Abstractions.dll
+C:\dotNetProjects\RandM\RandM.Morties.Classic\bin\Debug\net9.0\RandM.Abstractions.pdb
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Morties.Classic.csproj.AssemblyReference.cache
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Morties.Classic.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Morties.Classic.AssemblyInfoInputs.cache
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Morties.Classic.AssemblyInfo.cs
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Morties.Classic.csproj.CoreCompileInputs.cache
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Mo.B06BA793.Up2Date
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Morties.Classic.dll
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\refint\RandM.Morties.Classic.dll
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\RandM.Morties.Classic.pdb
+C:\dotNetProjects\RandM\RandM.Morties.Classic\obj\Debug\net9.0\ref\RandM.Morties.Classic.dll

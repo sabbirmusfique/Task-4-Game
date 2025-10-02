@@ -1,0 +1,15 @@
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\bin\Debug\net9.0\RandM.Morties.Lazy.deps.json
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\bin\Debug\net9.0\RandM.Morties.Lazy.dll
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\bin\Debug\net9.0\RandM.Morties.Lazy.pdb
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\bin\Debug\net9.0\RandM.Abstractions.dll
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\bin\Debug\net9.0\RandM.Abstractions.pdb
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Morties.Lazy.csproj.AssemblyReference.cache
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Morties.Lazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Morties.Lazy.AssemblyInfoInputs.cache
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Morties.Lazy.AssemblyInfo.cs
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Morties.Lazy.csproj.CoreCompileInputs.cache
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Mo.EC4D741B.Up2Date
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Morties.Lazy.dll
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\refint\RandM.Morties.Lazy.dll
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\RandM.Morties.Lazy.pdb
+C:\dotNetProjects\RandM\RandM.Morties.Lazy\obj\Debug\net9.0\ref\RandM.Morties.Lazy.dll

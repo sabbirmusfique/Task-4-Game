@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tN6TQR/xmiM=",
+  "success": true,
+  "projectFilePath": "C:\\dotNetProjects\\RandM\\RandM.Game\\RandM.Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabbir.musfique\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\sabbir.musfique\\.nuget\\packages\\spectre.console\\0.51.1\\spectre.console.0.51.1.nupkg.sha512"
+  ],
+  "logs": []
+}

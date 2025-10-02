@@ -1,0 +1,11 @@
+C:\dotNetProjects\RandM\RandM.Abstractions\bin\Debug\net9.0\RandM.Abstractions.deps.json
+C:\dotNetProjects\RandM\RandM.Abstractions\bin\Debug\net9.0\RandM.Abstractions.dll
+C:\dotNetProjects\RandM\RandM.Abstractions\bin\Debug\net9.0\RandM.Abstractions.pdb
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\RandM.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\RandM.Abstractions.AssemblyInfoInputs.cache
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\RandM.Abstractions.AssemblyInfo.cs
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\RandM.Abstractions.csproj.CoreCompileInputs.cache
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\RandM.Abstractions.dll
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\refint\RandM.Abstractions.dll
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\RandM.Abstractions.pdb
+C:\dotNetProjects\RandM\RandM.Abstractions\obj\Debug\net9.0\ref\RandM.Abstractions.dll

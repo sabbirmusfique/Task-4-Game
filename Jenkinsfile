@@ -9,6 +9,7 @@ pipeline {
     }
 
     stage('Build') {
+      steps {
         bat 'git --version'
         bat 'dir'
       }
